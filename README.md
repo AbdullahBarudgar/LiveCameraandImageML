@@ -14,6 +14,7 @@ SOURCES:
   
 2.Trained model using Teachable Machine( https://teachablemachine.withgoogle.com/ )
 
+
 KIT: Android SDK (software development kit) includes:
 
 1.MinimumSdkVersion :       21
