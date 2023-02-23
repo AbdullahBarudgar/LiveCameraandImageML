@@ -1,0 +1,2 @@
+# LiveCameraandImageML
+The app is used for object detection and item identification. There are three ways to detect objects: live, capture, and storage. This software uses a variety of data sets to accurately and quickly identify objects.  model is created using Teachable Machine and Kaggle, then trained it. In this project,  simply focused on Android and did not employ a single line of Python code
