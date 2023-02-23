@@ -61,11 +61,17 @@ androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.0'
 
 implementation 'org.tensorflow:tensorflow-lite:+'
 
-
+#LINKS
 
 •	Implement different libraries and dependencies in android studio( https://developers.google.com/ ) 
 
 •	For giving app good color combination ,color code take from link( https://material-ui.com/customization/color/ )
+
+• Kaggle Dataset( https://www.kaggle.com/ )
+  
+• Trained model using Teachable Machine( https://teachablemachine.withgoogle.com/ )
+
+•	To make flow-chart ( https://lucid.app/documents#/dashboard )
 
 
 
