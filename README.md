@@ -61,3 +61,11 @@ androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.0'
 
 implementation 'org.tensorflow:tensorflow-lite:+'
 
+
+
+•	Implement different libraries and dependencies in android studio( https://developers.google.com/ ) 
+
+•	For giving app good color combination ,color code take from link( https://material-ui.com/customization/color/ )
+
+
+
