@@ -10,17 +10,17 @@ LANGUAGE: Kotlin, XML,Java, Python
 TOOL: Tensorflow Lite, Android Studio, IntelliJ IDEA Community Edition 2021.2.3.
 
 SOURCES: 
-1. Kaggle Dataset( https://www.kaggle.com/ )
+1.Kaggle Dataset( https://www.kaggle.com/ )
   
-2. Trained model using Teachable Machine( https://teachablemachine.withgoogle.com/ )
+2.Trained model using Teachable Machine( https://teachablemachine.withgoogle.com/ )
 
 KIT: Android SDK (software development kit) includes:
 
-MinimumSdkVersion :       21
+1.MinimumSdkVersion :       21
 
-targetSdkVersion:         32
+2.targetSdkVersion:         32
 
-compileSdkVersion:        32
+3.compileSdkVersion:        32
 
 Minimum Requirement to Run the App:
 
