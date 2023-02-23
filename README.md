@@ -1,2 +1,42 @@
 # LiveCameraandImageML
 The app is used for object detection and item identification. There are three ways to detect objects: live, capture, and storage. This software uses a variety of data sets to accurately and quickly identify objects.  model is created using Teachable Machine and Kaggle, then trained it. In this project,  simply focused on Android and did not employ a single line of Python code
+
+# SOFTWARE REQUIREMENT SPECIFICATION :
+
+OPERATIING SYSTEM:  Window 10 ,11
+
+LANGUAGE: Kotlin, XML,Java, Python
+
+TOOL: Tensorflow Lite, Android Studio, IntelliJ IDEA Community Edition 2021.2.3.
+SOURCES: Kaggle Dataset and Trained model using Teachable Machine
+KIT: Android SDK (software development kit) includes:
+
+MinimumSdkVersion :       21
+targetSdkVersion:         32
+compileSdkVersion:        32
+
+Minimum Requirement to Run the App:
+Operating System: Android 
+Minimum API: API 21 (LollyPop)
+
+
+
+
+# Main features considered while developing in android studio are:
+•	Camera Activity 
+•	Camera Connection Fragment 
+•	Interpreter 
+•	Classifier 
+•	Canva
+
+# REQUIRED LIBRARY :
+
+implementation 'androidx.core:core-ktx:1.7.0'
+implementation 'androidx.appcompat:appcompat:1.5.1'
+implementation 'com.google.android.material:material:1.7.0'
+implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+testImplementation 'junit:junit:4.13.2'
+androidTestImplementation 'androidx.test.ext:junit:1.1.4'
+androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.0'
+implementation 'org.tensorflow:tensorflow-lite:+'
+}
