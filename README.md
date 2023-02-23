@@ -9,7 +9,10 @@ LANGUAGE: Kotlin, XML,Java, Python
 
 TOOL: Tensorflow Lite, Android Studio, IntelliJ IDEA Community Edition 2021.2.3.
 
-SOURCES: Kaggle Dataset and Trained model using Teachable Machine
+SOURCES: 
+1. Kaggle Dataset( https://www.kaggle.com/ )
+  
+2. Trained model using Teachable Machine( https://teachablemachine.withgoogle.com/ )
 
 KIT: Android SDK (software development kit) includes:
 
