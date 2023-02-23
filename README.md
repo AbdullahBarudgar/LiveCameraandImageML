@@ -61,7 +61,7 @@ androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.0'
 
 implementation 'org.tensorflow:tensorflow-lite:+'
 
-#LINKS
+# LINKS
 
 •	Implement different libraries and dependencies in android studio( https://developers.google.com/ ) 
 
